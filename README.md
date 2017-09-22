@@ -1,4 +1,5 @@
 # WeatherMan
+https://github.com/AaronBDC/weatherman.git
 
 ### dependencies
   "axios": "^0.16.2",
